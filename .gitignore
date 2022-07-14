@@ -3,6 +3,19 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Debug
+Release
+ipch
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.suo
+*.exe
+!CreateMain.exe
+/UnitTester/Defines.h
+.vs
+
 # User-specific files
 *.rsuser
 *.suo
